@@ -1,0 +1,38 @@
+{
+   "token": "MTIxNDIzNzQ4NjkxODY2NDMxMg.GAQNqn.07FsKVN24kAZfjAH-P9s_B3FASdac5f0bLPIs0",
+   "prefix": "+",
+   "ownerIDS": [
+      "377458164733313044"
+   ],
+   "memer_api": "fTJLBpkPvyZ",
+   "status": {
+      "text": "Sub 2 spectrum",
+      "text2": "Credits :  Milrato",
+      "type": "WATCHING",
+      "url": " "
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lava.link",
+            "port": 80,
+            "password": "LAVA"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "053469ffeb3844079fab734ebf3090c2",
+      "clientID": "bf5ee2a72bae40ffadc71a47280e5ff9"
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   }
+}
